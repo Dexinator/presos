@@ -95,6 +95,25 @@ class Reservation
 
 
     }
+    function sorteo($idpreso)
+    {
+        // (C2) DATABASE ENTRY
+
+
+        try {
+
+            $this->stmt = $this->pdo->prepare(
+                "INSERT INTO `cumple` (`id`) VALUES (?)"
+            );
+            $this->stmt->execute([$idpreso]);
+            return true;
+        } catch (Exception $ex) {
+            $this->error = $ex->getMessage();
+            return false;
+        }
+
+
+    }
     
 
 }

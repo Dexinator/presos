@@ -2,8 +2,8 @@
   		<h1> <img src="logo.png" id="imgprinc"></h1>
 <?php
 // Set the time range (e.g., only allow access between 9 AM and 5 PM)
-$start_time = 0;  // 9 AM
-$end_time = 6;   // 5 PM
+$start_time = 0;  // 0
+$end_time = 24;   // 6
 
 // Get the current hour in 24-hour format
 $current_hour = date('G'); 
