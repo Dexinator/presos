@@ -1,0 +1,384 @@
+[29-May-2024 03:02:55 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ')' in /home/customer/www/surveys.gutete.com/public_html/presos/formulario.php on line 9
+[29-May-2024 03:03:45 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/customer/www/surveys.gutete.com/public_html/presos/formulario.php on line 9
+[29-May-2024 03:03:48 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/customer/www/surveys.gutete.com/public_html/presos/formulario.php on line 9
+[29-May-2024 03:27:56 UTC] PHP Parse error:  syntax error, unexpected 'AS' (T_AS), expecting ')' in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php on line 66
+[29-May-2024 03:45:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function bindValue() in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php:66
+Stack trace:
+#0 /home/customer/www/surveys.gutete.com/public_html/presos/formulario.php(8): Reservation->captor('1')
+#1 {main}
+  thrown in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php on line 66
+[29-May-2024 03:46:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function bindValue() in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php:66
+Stack trace:
+#0 /home/customer/www/surveys.gutete.com/public_html/presos/formulario.php(8): Reservation->captor('1')
+#1 {main}
+  thrown in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php on line 66
+[29-May-2024 03:50:55 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php on line 66
+[29-May-2024 04:09:42 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php on line 66
+[29-May-2024 04:47:01 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/customer/www/surveys.gutete.com/public_html/presos/formulario.php on line 40
+[29-May-2024 04:47:02 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/customer/www/surveys.gutete.com/public_html/presos/formulario.php on line 40
+[29-May-2024 05:00:41 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/customer/www/surveys.gutete.com/public_html/presos/formulario.php on line 9
+[14-Nov-2024 14:58:17 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "DB_HOST" in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php:12
+Stack trace:
+#0 /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php(104): Reservation->__construct()
+#1 /home/customer/www/surveys.gutete.com/public_html/presos/formulario.php(3): require('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php on line 12
+[14-Nov-2024 15:30:52 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Reservation::save(), 1 passed in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 7 and exactly 6 expected in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php:34
+Stack trace:
+#0 /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php(7): Reservation->save('Ale')
+#1 {main}
+  thrown in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php on line 34
+[14-Nov-2024 15:33:27 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Reservation::save(), 1 passed in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 7 and exactly 6 expected in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php:34
+Stack trace:
+#0 /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php(7): Reservation->save('Ale')
+#1 {main}
+  thrown in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php on line 34
+[14-Nov-2024 15:33:32 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Reservation::save(), 1 passed in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 7 and exactly 6 expected in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php:34
+Stack trace:
+#0 /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php(7): Reservation->save('Ale')
+#1 {main}
+  thrown in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php on line 34
+[14-Nov-2024 15:34:57 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Reservation::save(), 1 passed in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 7 and exactly 6 expected in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php:34
+Stack trace:
+#0 /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php(7): Reservation->save('Ale')
+#1 {main}
+  thrown in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php on line 34
+[14-Nov-2024 15:35:10 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Reservation::save(), 1 passed in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 7 and exactly 6 expected in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php:34
+Stack trace:
+#0 /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php(7): Reservation->save('Ale')
+#1 {main}
+  thrown in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php on line 34
+[14-Nov-2024 15:37:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function fetchAll() in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php:89
+Stack trace:
+#0 /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php(7): Reservation->consulta('Ale')
+#1 {main}
+  thrown in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php on line 89
+[14-Nov-2024 15:37:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function fetchAll() in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php:89
+Stack trace:
+#0 /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php(7): Reservation->consulta('Ale')
+#1 {main}
+  thrown in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php on line 89
+[14-Nov-2024 15:39:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function fetchAll() in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php:89
+Stack trace:
+#0 /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php(7): Reservation->consulta('Ale')
+#1 {main}
+  thrown in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php on line 89
+[14-Nov-2024 15:40:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function fetchAll() in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php:89
+Stack trace:
+#0 /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php(7): Reservation->consulta('Ale')
+#1 {main}
+  thrown in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php on line 89
+[14-Nov-2024 15:43:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function fetchAll() in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php:89
+Stack trace:
+#0 /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php(7): Reservation->consulta('Ale')
+#1 {main}
+  thrown in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php on line 89
+[14-Nov-2024 15:43:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function fetchAll() in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php:89
+Stack trace:
+#0 /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php(7): Reservation->consulta('Ale')
+#1 {main}
+  thrown in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php on line 89
+[14-Nov-2024 15:43:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function fetchAll() in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php:89
+Stack trace:
+#0 /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php(7): Reservation->consulta('Ale')
+#1 {main}
+  thrown in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php on line 89
+[14-Nov-2024 15:43:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function fetchAll() in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php:89
+Stack trace:
+#0 /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php(7): Reservation->consulta('Ale')
+#1 {main}
+  thrown in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php on line 89
+[14-Nov-2024 15:44:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function fetchAll() in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php:89
+Stack trace:
+#0 /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php(7): Reservation->consulta('Ale')
+#1 {main}
+  thrown in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php on line 89
+[14-Nov-2024 15:44:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function fetchAll() in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php:89
+Stack trace:
+#0 /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php(7): Reservation->consulta('Ale')
+#1 {main}
+  thrown in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php on line 89
+[14-Nov-2024 15:45:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function fetchAll() in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php:89
+Stack trace:
+#0 /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php(7): Reservation->consulta('ALE')
+#1 {main}
+  thrown in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php on line 89
+[14-Nov-2024 15:46:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function fetchAll() in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php:89
+Stack trace:
+#0 /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php(7): Reservation->consulta('ALE')
+#1 {main}
+  thrown in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php on line 89
+[14-Nov-2024 15:46:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function fetchAll() in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php:89
+Stack trace:
+#0 /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php(7): Reservation->consulta('Ale')
+#1 {main}
+  thrown in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php on line 89
+[14-Nov-2024 15:47:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function fetchAll() in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php:89
+Stack trace:
+#0 /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php(7): Reservation->consulta('Ale')
+#1 {main}
+  thrown in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php on line 89
+[14-Nov-2024 15:48:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function fetchAll() in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php:89
+Stack trace:
+#0 /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php(7): Reservation->consulta('Ale')
+#1 {main}
+  thrown in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php on line 89
+[14-Nov-2024 15:49:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function fetchAll() in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php:90
+Stack trace:
+#0 /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php(7): Reservation->consulta('Ale')
+#1 {main}
+  thrown in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php on line 90
+[14-Nov-2024 15:49:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function fetchAll() in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php:91
+Stack trace:
+#0 /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php(7): Reservation->consulta('Ale')
+#1 {main}
+  thrown in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php on line 91
+[14-Nov-2024 15:49:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function fetchAll() in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php:91
+Stack trace:
+#0 /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php(7): Reservation->consulta('Ale')
+#1 {main}
+  thrown in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php on line 91
+[14-Nov-2024 15:50:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function fetchAll() in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php:91
+Stack trace:
+#0 /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php(7): Reservation->consulta('Ale')
+#1 {main}
+  thrown in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php on line 91
+[14-Nov-2024 15:55:07 UTC] PHP Deprecated:  Creation of dynamic property Reservation::$ is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php on line 88
+[14-Nov-2024 15:55:41 UTC] PHP Deprecated:  Creation of dynamic property Reservation::$ is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php on line 88
+[14-Nov-2024 15:56:30 UTC] PHP Deprecated:  Creation of dynamic property Reservation::$ is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php on line 88
+[14-Nov-2024 15:56:32 UTC] PHP Deprecated:  Creation of dynamic property Reservation::$ is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php on line 88
+[14-Nov-2024 15:57:00 UTC] PHP Deprecated:  Creation of dynamic property Reservation::$resultados is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php on line 88
+[14-Nov-2024 15:57:00 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:00 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:00 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:00 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:00 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:00 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:00 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:00 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:00 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:00 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:00 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:00 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:00 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:00 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:00 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:00 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:00 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:00 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:00 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:02 UTC] PHP Deprecated:  Creation of dynamic property Reservation::$resultados is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php on line 88
+[14-Nov-2024 15:57:02 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:02 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:02 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:02 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:02 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:02 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:02 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:02 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:02 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:02 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:02 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:02 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:02 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:02 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:02 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:02 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:02 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:02 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:02 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:03 UTC] PHP Deprecated:  Creation of dynamic property Reservation::$resultados is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php on line 88
+[14-Nov-2024 15:57:03 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:03 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:03 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:03 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:03 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:03 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:03 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:03 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:03 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:03 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:03 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:03 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:03 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:03 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:03 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:03 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:03 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:03 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:03 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:03 UTC] PHP Deprecated:  Creation of dynamic property Reservation::$resultados is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php on line 88
+[14-Nov-2024 15:57:03 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:03 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:03 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:03 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:03 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:03 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:03 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:03 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:03 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:03 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:03 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:03 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:03 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:03 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:03 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:03 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:03 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:03 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:03 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:04 UTC] PHP Deprecated:  Creation of dynamic property Reservation::$resultados is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php on line 88
+[14-Nov-2024 15:57:04 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:04 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:04 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:04 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:04 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:04 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:04 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:04 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:04 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:04 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:04 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:04 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:04 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:04 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:04 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:04 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:04 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:04 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:04 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:10 UTC] PHP Deprecated:  Creation of dynamic property Reservation::$resultados is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php on line 88
+[14-Nov-2024 15:57:10 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:10 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:10 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:10 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:10 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:10 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:10 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:10 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:10 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:10 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:10 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:10 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:10 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:10 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:10 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:10 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:10 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:10 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:10 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:25 UTC] PHP Deprecated:  Creation of dynamic property Reservation::$resultados is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php on line 88
+[14-Nov-2024 15:57:25 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:25 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:25 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:25 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:25 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:25 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:25 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:25 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:25 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:25 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:25 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:25 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:25 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:25 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:25 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:25 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:25 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:25 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:57:25 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:58:06 UTC] PHP Deprecated:  Creation of dynamic property Reservation::$resultados is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php on line 88
+[14-Nov-2024 15:58:06 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:58:06 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:58:06 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:58:06 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:58:06 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:58:06 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:58:06 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:58:06 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:58:06 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:58:06 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:58:06 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:58:06 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:58:06 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:58:06 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:58:06 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:58:06 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:58:06 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:58:06 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:58:06 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:58:16 UTC] PHP Deprecated:  Creation of dynamic property Reservation::$resultados is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php on line 88
+[14-Nov-2024 15:58:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:58:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:58:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:58:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:58:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:58:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:58:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:58:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:58:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:58:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:58:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:58:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:58:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:58:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:58:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:58:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:58:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:58:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:58:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/consulta.php on line 55
+[14-Nov-2024 15:59:06 UTC] PHP Deprecated:  Creation of dynamic property Reservation::$resultados is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php on line 88
+[14-Nov-2024 15:59:50 UTC] PHP Deprecated:  Creation of dynamic property Reservation::$resultados is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php on line 88
+[14-Nov-2024 16:07:17 UTC] PHP Deprecated:  Creation of dynamic property Reservation::$resultados is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php on line 88
+[14-Nov-2024 16:07:26 UTC] PHP Deprecated:  Creation of dynamic property Reservation::$resultados is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php on line 88
+[14-Nov-2024 16:08:38 UTC] PHP Deprecated:  Creation of dynamic property Reservation::$resultados is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php on line 88
+[14-Nov-2024 16:08:41 UTC] PHP Deprecated:  Creation of dynamic property Reservation::$resultados is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php on line 88
+[14-Nov-2024 16:08:54 UTC] PHP Deprecated:  Creation of dynamic property Reservation::$resultados is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php on line 88
+[14-Nov-2024 16:10:00 UTC] PHP Deprecated:  Creation of dynamic property Reservation::$resultados is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php on line 88
+[14-Nov-2024 16:10:05 UTC] PHP Deprecated:  Creation of dynamic property Reservation::$resultados is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php on line 88
+[14-Nov-2024 16:10:08 UTC] PHP Deprecated:  Creation of dynamic property Reservation::$resultados is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php on line 88
+[14-Nov-2024 16:11:23 UTC] PHP Deprecated:  Creation of dynamic property Reservation::$resultados is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php on line 88
+[14-Nov-2024 16:11:38 UTC] PHP Deprecated:  Creation of dynamic property Reservation::$resultados is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php on line 88
+[14-Nov-2024 16:11:56 UTC] PHP Deprecated:  Creation of dynamic property Reservation::$resultados is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php on line 88
+[14-Nov-2024 16:12:48 UTC] PHP Deprecated:  Creation of dynamic property Reservation::$resultados is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php on line 88
+[14-Nov-2024 16:12:54 UTC] PHP Deprecated:  Creation of dynamic property Reservation::$resultados is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php on line 88
+[14-Nov-2024 16:15:26 UTC] PHP Deprecated:  Creation of dynamic property Reservation::$resultados is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php on line 88
+[14-Nov-2024 16:17:39 UTC] PHP Deprecated:  Creation of dynamic property Reservation::$resultados is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php on line 88
+[14-Nov-2024 16:17:50 UTC] PHP Deprecated:  Creation of dynamic property Reservation::$resultados is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php on line 88
+[14-Nov-2024 16:18:12 UTC] PHP Deprecated:  Creation of dynamic property Reservation::$resultados is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php on line 88
+[14-Nov-2024 16:18:16 UTC] PHP Deprecated:  Creation of dynamic property Reservation::$resultados is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php on line 88
+[14-Nov-2024 16:20:25 UTC] PHP Deprecated:  Creation of dynamic property Reservation::$resultados is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php on line 88
+[14-Nov-2024 16:20:29 UTC] PHP Deprecated:  Creation of dynamic property Reservation::$resultados is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php on line 88
+[14-Nov-2024 16:22:12 UTC] PHP Deprecated:  Creation of dynamic property Reservation::$resultados is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php on line 88
+[14-Nov-2024 16:22:21 UTC] PHP Deprecated:  Creation of dynamic property Reservation::$resultados is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php on line 88
+[14-Nov-2024 16:23:00 UTC] PHP Deprecated:  Creation of dynamic property Reservation::$resultados is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php on line 88
+[14-Nov-2024 16:23:10 UTC] PHP Deprecated:  Creation of dynamic property Reservation::$resultados is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php on line 88
+[14-Nov-2024 16:23:40 UTC] PHP Deprecated:  Creation of dynamic property Reservation::$resultados is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php on line 88
+[14-Nov-2024 16:24:15 UTC] PHP Deprecated:  Creation of dynamic property Reservation::$resultados is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php on line 88
+[14-Nov-2024 16:24:38 UTC] PHP Deprecated:  Creation of dynamic property Reservation::$resultados is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php on line 88
+[14-Nov-2024 16:25:08 UTC] PHP Deprecated:  Creation of dynamic property Reservation::$resultados is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php on line 88
+[14-Nov-2024 16:26:16 UTC] PHP Deprecated:  Creation of dynamic property Reservation::$resultados is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php on line 88
+[14-Nov-2024 16:27:56 UTC] PHP Deprecated:  Creation of dynamic property Reservation::$resultados is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php on line 88
+[14-Nov-2024 16:28:07 UTC] PHP Deprecated:  Creation of dynamic property Reservation::$resultados is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php on line 88
+[14-Nov-2024 16:28:10 UTC] PHP Deprecated:  Creation of dynamic property Reservation::$resultados is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php on line 88
+[14-Nov-2024 16:28:30 UTC] PHP Deprecated:  Creation of dynamic property Reservation::$resultados is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php on line 88
+[14-Nov-2024 16:48:11 UTC] PHP Deprecated:  Creation of dynamic property Reservation::$resultados is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php on line 88
+[14-Nov-2024 16:51:43 UTC] PHP Deprecated:  Creation of dynamic property Reservation::$resultados is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php on line 88
+[14-Nov-2024 16:52:03 UTC] PHP Deprecated:  Creation of dynamic property Reservation::$resultados is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php on line 88
+[14-Nov-2024 16:52:08 UTC] PHP Deprecated:  Creation of dynamic property Reservation::$resultados is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php on line 88
+[14-Nov-2024 16:52:12 UTC] PHP Deprecated:  Creation of dynamic property Reservation::$resultados is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php on line 88
+[15-Nov-2024 01:08:29 UTC] PHP Deprecated:  Creation of dynamic property Reservation::$resultados is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php on line 88
+[15-Nov-2024 01:08:40 UTC] PHP Deprecated:  Creation of dynamic property Reservation::$resultados is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php on line 88
+[15-Nov-2024 01:08:56 UTC] PHP Deprecated:  Creation of dynamic property Reservation::$resultados is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php on line 88
+[15-Nov-2024 01:10:47 UTC] PHP Deprecated:  Creation of dynamic property Reservation::$resultados is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php on line 88
+[15-Nov-2024 01:17:00 UTC] PHP Deprecated:  Creation of dynamic property Reservation::$resultados is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php on line 88
+[15-Nov-2024 01:17:27 UTC] PHP Deprecated:  Creation of dynamic property Reservation::$resultados is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php on line 88
+[15-Nov-2024 01:17:43 UTC] PHP Deprecated:  Creation of dynamic property Reservation::$resultados is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php on line 88
+[15-Nov-2024 01:17:58 UTC] PHP Deprecated:  Creation of dynamic property Reservation::$resultados is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php on line 88
+[15-Nov-2024 01:24:21 UTC] PHP Deprecated:  Creation of dynamic property Reservation::$resultados is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php on line 88
+[15-Nov-2024 01:24:57 UTC] PHP Deprecated:  Creation of dynamic property Reservation::$resultados is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php on line 88
+[15-Nov-2024 01:25:04 UTC] PHP Deprecated:  Creation of dynamic property Reservation::$resultados is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php on line 88
+[15-Nov-2024 01:25:27 UTC] PHP Deprecated:  Creation of dynamic property Reservation::$resultados is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php on line 88
+[15-Nov-2024 01:25:44 UTC] PHP Deprecated:  Creation of dynamic property Reservation::$resultados is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php on line 88
+[15-Nov-2024 01:26:45 UTC] PHP Deprecated:  Creation of dynamic property Reservation::$resultados is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php on line 88
+[15-Nov-2024 01:27:29 UTC] PHP Deprecated:  Creation of dynamic property Reservation::$resultados is deprecated in /home/customer/www/surveys.gutete.com/public_html/presos/enviar.php on line 88
